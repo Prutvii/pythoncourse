@@ -1,0 +1,6 @@
+this is just an simple python code pushes by me, by following Tanvi maam.
+  The code doesn't consist more content,
+it has just an main file,
+an python project toml file,
+and an lock file 
+    this just an basic example to learn that how can we push our codes in our git account with the help of terminal commands and Visual Studio (VS)Code...!!
